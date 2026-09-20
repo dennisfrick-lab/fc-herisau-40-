@@ -1,0 +1,12 @@
+{
+  "name": "fc-herisau-40plus",
+  "version": "1.0.0",
+  "description": "FC Herisau Senioren 40+ Statistik App",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
